@@ -12,5 +12,9 @@ juego.setCheckpoint(6);
 originator.setEstado(juego);
 caretaker.addMemento(originator.guardar());
         
-originator.setEstado(juego);*/
+originator.setEstado(juego);
+```
+# Salida
+```java
+Juego [nombre = Mario Bros, checkpoint = 5]
 ```
