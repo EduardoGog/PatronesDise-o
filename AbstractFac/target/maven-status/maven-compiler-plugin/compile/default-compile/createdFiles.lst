@@ -1,0 +1,10 @@
+com\mycompany\abstractfac\ComputadoraFactory.class
+com\mycompany\abstractfac\ProcesadorLaptop.class
+com\mycompany\abstractfac\RAMEscritorio.class
+com\mycompany\abstractfac\RAMLaptop.class
+com\mycompany\abstractfac\ComputadoraLaptopFactory.class
+com\mycompany\abstractfac\RAM.class
+com\mycompany\abstractfac\Procesador.class
+com\mycompany\abstractfac\AbstractFac.class
+com\mycompany\abstractfac\ProcesadorEscritorio.class
+com\mycompany\abstractfac\ComputadoraEscritorioFactory.class
