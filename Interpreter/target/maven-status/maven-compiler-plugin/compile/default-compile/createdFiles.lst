@@ -1,0 +1,7 @@
+com\mycompany\interpreter\LeftCommand.class
+com\mycompany\interpreter\ContextoRobot.class
+com\mycompany\interpreter\MoveCommand.class
+com\mycompany\interpreter\RepetirComando.class
+com\mycompany\interpreter\RightCommand.class
+com\mycompany\interpreter\ComandoExpresion.class
+com\mycompany\interpreter\Interpreter.class
