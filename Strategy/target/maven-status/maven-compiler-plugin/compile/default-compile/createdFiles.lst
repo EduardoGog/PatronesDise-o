@@ -1,0 +1,6 @@
+com\mycompany\strategy\Operacion.class
+com\mycompany\strategy\Multiplicacion.class
+com\mycompany\strategy\Suma.class
+com\mycompany\strategy\Calculadora.class
+com\mycompany\strategy\Resta.class
+com\mycompany\strategy\Strategy.class
