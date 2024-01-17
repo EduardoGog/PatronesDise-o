@@ -1,0 +1,5 @@
+com\mycompany\pmemento\Caretaker.class
+com\mycompany\pmemento\Juego.class
+com\mycompany\pmemento\Memento.class
+com\mycompany\pmemento\PMemento.class
+com\mycompany\pmemento\Originator.class
