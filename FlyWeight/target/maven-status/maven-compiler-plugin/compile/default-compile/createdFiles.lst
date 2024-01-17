@@ -1,0 +1,4 @@
+com\mycompany\flyweight\Tree.class
+com\mycompany\flyweight\FlyWeight.class
+com\mycompany\flyweight\TreeFactory.class
+com\mycompany\flyweight\TreeType.class
